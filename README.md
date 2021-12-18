@@ -4,6 +4,7 @@
 <!-- TOC -->
 - [Prerequisites](#prerequisites)
 - [How to use this template](#how-to-use-this-template)
+- [Beyond config files](#beyond-config-files)
 
 <!-- /TOC -->
 
