@@ -3,7 +3,7 @@
   <PropertyGroup>
     <ProjectView>ProjectFiles</ProjectView>
     <GameDir>F:\SteamLibrary\steamapps\common\Outer Wilds</GameDir>
-    <OwmlDir>C:\Users\Nicholas\AppData\Roaming\OuterWildsModManager\OWML</OwmlDir>
+    <OwmlDir>%AppData%\OuterWildsModManager\OWML</OwmlDir>
     <ModUniqueName>xen.NewHorizonsTemplate</ModUniqueName>
   </PropertyGroup>
 </Project>
