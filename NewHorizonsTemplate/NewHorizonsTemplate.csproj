@@ -26,10 +26,10 @@
         <None Include="manifest.json">
             <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
         </None>
-        <None Include="Assets\**">
+        <None Include="planets\**">
             <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
         </None>
-		<None Include="Icons\**">
+		<None Include="systems\**">
             <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
         </None>
     </ItemGroup>
